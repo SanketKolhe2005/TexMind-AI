@@ -336,11 +336,8 @@ This project demonstrates practical experience with:
 🎓 B.Tech Computer Engineering  
 MIT Academy of Engineering, Alandi, Pune
 
-- **GitHub:** [SanketKolhe2005](https://github.com/SanketKolhe2005)
-- **LinkedIn:** [Sanket Kolhe](https://www.linkedin.com/in/sanket-kolhe-b2683525b)
-
----
-
+- **GitHub:** https://github.com/SanketKolhe2005
+- **LinkedIn:** https://www.linkedin.com/in/sanket-kolhe-b2683525b
 # 📄 License
 
 This project is licensed under the MIT License.
