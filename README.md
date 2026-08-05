@@ -336,8 +336,8 @@ This project demonstrates practical experience with:
 🎓 B.Tech Computer Engineering  
 MIT Academy of Engineering, Alandi, Pune
 
-- **GitHub:** :contentReference[oaicite:0]{index=0}
-- **LinkedIn:** :contentReference[oaicite:1]{index=1}
+- **GitHub:** [SanketKolhe2005](https://github.com/SanketKolhe2005)
+- **LinkedIn:** [Sanket Kolhe](https://www.linkedin.com/in/sanket-kolhe-b2683525b)
 
 ---
 
