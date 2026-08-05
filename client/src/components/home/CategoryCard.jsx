@@ -15,16 +15,21 @@ export default function CategoryCard({ item }) {
         className="cursor-pointer rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition-all"
       >
         <img
-          src={item.image}
-          alt={item.name}
-          className="h-72 w-full object-cover"
-        />
+  src={item.image}
+  alt={item.name}
+  className="h-72 w-full object-cover"
+  onLoad={() => console.log("✅ Loaded:", item.image)}
+  onError={(e) => {
+    console.log("❌ Failed:", item.image);
+    e.target.src = "https://placehold.co/600x400?text=Image+Not+Found";
+  }}
+/>
 
         <div className="p-6">
 
-          <h2 className="text-3xl font-bold">
-            {item.name}
-          </h2>
+          <h2 className="text-3xl font-bold text-red-600">
+  TEST - {item.name}
+</h2>
 
           <p className="text-gray-500 mt-3">
             {item.description}
